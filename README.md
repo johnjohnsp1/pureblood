@@ -37,6 +37,7 @@
 ## Path (Optional)
 
 ### Linux
+
 ```
 $ sudo nano ~/.bashrc
 # Add this in the bottom of the file
@@ -45,12 +46,14 @@ $ pureblood.py
 ```
 
 ### Windows
+
 ```
 Windows Search > Edit The System Environment Variables > Environment Variables > Path > Edit > New > (Path to the Tool) > Ok > Ok > Apply / Ok
 $ pureblood
 ```
 
 ### MAC
+
 ```
 $ nano /etc/paths
 # Add this in the bottom of the file
@@ -83,6 +86,7 @@ Please make sure to update tests as appropriate.
 * [Cr4sHCoD3](https://www.facebook.com/cr4shcod3.py) - Pure Blood
 
 ## License
+
 ```
 MIT License
 
