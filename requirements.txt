@@ -1,0 +1,5 @@
+colorama
+requests
+python-whois
+dnspython
+bs4
