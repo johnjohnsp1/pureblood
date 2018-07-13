@@ -28,46 +28,10 @@
 
 > Any Python Version.
 
-### Modules
-
-* `$ pip install -r requirements.txt`
-<br>OR
-* `$ pip install colorama requests python-whois dnspython bs4`
-
-## Path (Optional)
-
-### Linux
-
 ```
-$ sudo nano ~/.bashrc
-# Add this in the bottom of the file
-export PATH=$PATH:<Path of the Tool>/pureblood
-$ pureblood.py
-```
-
-### Windows
-
-```
-Windows Search > Edit The System Environment Variables > Environment Variables > Path > Edit > New > (Path to the Tool) > Ok > Ok > Apply / Ok
-$ pureblood
-```
-
-### MAC
-
-```
-$ nano /etc/paths
-# Add this in the bottom of the file
-export PATH=$PATH:<Path of the Tool>/pureblood/
-$ pureblood.py
-```
-
-### Android (Termux / GNURoot)
-
-```
-$ nano ~/.bashrc
-# Add this in the bottom of the file
-export PATH=$PATH:<Path of the Tool>/pureblood/
-$ pureblood.py
+$ git clone https://github.com/cr4shcod3/pureblood
+$ cd pureblood
+$ pip install -r requirements.txt
 ```
 
 
